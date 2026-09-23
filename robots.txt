@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--kbt93hvwi31cb90b.org/sitemap.xml
